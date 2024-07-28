@@ -1,0 +1,297 @@
+{
+  "places": [
+    {
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.6,
+      "userRatingCount": 34,
+      "displayName": {
+        "text": "Johnny Onenoté",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "barber_shop",
+        "hair_salon",
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.7,
+      "userRatingCount": 173,
+      "displayName": {
+        "text": "ヒロ銀座プレミアムバーバー目黒店",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "barber_shop",
+        "hair_salon",
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 3.8,
+      "userRatingCount": 134,
+      "displayName": {
+        "text": "QB HOUSE 目黒セントラルスクエア店",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.8,
+      "userRatingCount": 52,
+      "displayName": {
+        "text": "defi",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 3.2,
+      "userRatingCount": 29,
+      "displayName": {
+        "text": "STUDIO21",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 3.7,
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "クロリス",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "barber_shop",
+        "hair_salon",
+        "spa",
+        "hair_care",
+        "beauty_salon",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.5,
+      "userRatingCount": 51,
+      "displayName": {
+        "text": "新感覚理容室LINK 目黒駅前店",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "barber_shop",
+        "hair_salon",
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.7,
+      "userRatingCount": 196,
+      "displayName": {
+        "text": "カミヤーズ東京目黒店",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.9,
+      "userRatingCount": 51,
+      "displayName": {
+        "text": "SOURCE liebe (ソウスリーベ）",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 3.9,
+      "userRatingCount": 28,
+      "displayName": {
+        "text": "楽染 Rakusome 目黒店",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 3.3,
+      "userRatingCount": 25,
+      "displayName": {
+        "text": "Neolive Butterfly",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.4,
+      "userRatingCount": 28,
+      "displayName": {
+        "text": "mod's hair",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.7,
+      "userRatingCount": 103,
+      "displayName": {
+        "text": "equri fleur",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.9,
+      "userRatingCount": 74,
+      "displayName": {
+        "text": "equri×SHISEIDO",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "barber_shop",
+        "hair_salon",
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.9,
+      "userRatingCount": 61,
+      "displayName": {
+        "text": "barberTATEGAMI(バーバータテガミ)",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 3.8,
+      "userRatingCount": 21,
+      "displayName": {
+        "text": "michelle afloat（ミッシェル アフロート）",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.7,
+      "userRatingCount": 44,
+      "displayName": {
+        "text": "SOURCE",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.7,
+      "userRatingCount": 80,
+      "displayName": {
+        "text": "equri bonne",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.6,
+      "userRatingCount": 9,
+      "displayName": {
+        "text": "CASINO(カジノ)",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.6,
+      "userRatingCount": 20,
+      "displayName": {
+        "text": "pursuit",
+        "languageCode": "ja"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[project]
+name = "search_hair_salon_with_places_api"
+version = "0.1.0"
+description = "A Python application to search for hair salons using the Google Places API"
+authors = [{ name = "schroneko", email = "schroneko.fuller@gmail.com" }]
+dependencies = ["requests>=2.32.3", "python-dotenv>=1.0.1"]
+readme = "README.md"
+requires-python = ">= 3.8"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+dev-dependencies = []
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/search_hair_salon_with_places_api"]
